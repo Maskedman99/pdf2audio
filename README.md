@@ -16,4 +16,4 @@ If you run into error, make sure you have installed all the packages mentioned i
 
 Select the desired pdf.
 
-mp3 generated can be found inside the directory.
+mp3 generated can be found inside the directory where pdf is present.
